@@ -1,0 +1,17 @@
+# Node
+node_modules/
+.next/
+dist/
+ECHO is on.
+# Python
+__pycache__/
+.venv/
+venv/
+*.pyc
+ECHO is on.
+# OS / Editor
+.DS_Store
+.vscode/
+ECHO is on.
+# Secrets
+.env
